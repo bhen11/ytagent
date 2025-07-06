@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+langchain
+langchain-groq
+langchain-tavily
+langgraph
+youtube-transcript-api
+python-dotenv
